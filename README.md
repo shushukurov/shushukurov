@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![My current project](https://github.com/shushukurov/shushukurov/blob/main/test.gif)
+
 - 🔭 I’m currently working on Face mask detection APP
 - 🌱 I’m currently learning Docker, Kubernetes
 - 👯 I’m looking to collaborate on MedTech software
