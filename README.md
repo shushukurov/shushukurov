@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I am a powerlifting champion 🏋🏻🏆
 -->
 # Table of contest
-
+![ML portfolio](https://github.com/shushukurov/ML_Portfolio)
 <!--
 **shushukurov/shushukurov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
