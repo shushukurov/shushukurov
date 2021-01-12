@@ -1,4 +1,7 @@
 ### Hi there 👋
+### This is my current project
+
+Face mask detection with Pytorch
 
 ![My current project](https://github.com/shushukurov/shushukurov/blob/main/test.gif)
 
