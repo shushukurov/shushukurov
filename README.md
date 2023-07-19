@@ -5,13 +5,12 @@
 
 ![My current project](https://github.com/shushukurov/shushukurov/blob/main/test.gif)
 
-- 🔭 I’m currently working on Face mask detection APP
-- 🌱 I’m currently learning Docker, Kubernetes
-- 👯 I’m looking to collaborate on MedTech software
-- 🤔 I’m looking for help with Data annotation
-- 💬 Ask me about Everything
+- 🔭 I’m currently working @ lexisnexsisrisk as Data Scientist 
+- 🌱 I’m currently learning to play a Tennis
+- 👯 I’m looking to collaborate on enterprise software
+- 🤔 I’m looking for a help with Data annotation
+- 💬 Ask me about Product Design
 - 📫 How to reach me: shushukurov@gmail.com
-- 😄 Pronouns: Shakhzod 3 times :)
 - ⚡ Fun fact: I am a powerlifting champion 🏋🏻🏆
 -->
 # Table of contest
