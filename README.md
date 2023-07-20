@@ -1,9 +1,9 @@
 ### Hi there 👋
-### This is my current project
+### This is my first commercially successful product 
 
 [Face mask detection with Pytorch](https://github.com/shushukurov/FaceMaskDetector)
 
-![My current project](https://github.com/shushukurov/shushukurov/blob/main/test.gif)
+![Detector](https://github.com/shushukurov/shushukurov/blob/main/test.gif)
 
 - 🔭 I’m currently working @ lexisnexsisrisk as Data Scientist 
 - 🌱 I’m currently learning to play a Tennis
