@@ -1,18 +1,22 @@
 ### Hi there 👋
-### This is my first commercially successful product 
+
+- 🔭 I’m currently working @ LexisNexis risk as Data Scientist 
+- 🌱 I’m currently learning to play a Tennis
+- 👯 I’m looking to collaborate on enterprise software
+- 🤔 I’m looking for help with Data annotation
+- 💬 Ask me about Product Design
+- 📫 How to reach me: shushukurov@gmail.com
+- ⚡ Fun fact: I am a powerlifting champion 🏋🏻🏆
+-->
+
+### That's how it all started and keeps going 
+### This is my first commercially successful product:
 
 [Face mask detection with Pytorch](https://github.com/shushukurov/FaceMaskDetector)
 
 ![Detector](https://github.com/shushukurov/shushukurov/blob/main/test.gif)
 
-- 🔭 I’m currently working @ lexisnexsisrisk as Data Scientist 
-- 🌱 I’m currently learning to play a Tennis
-- 👯 I’m looking to collaborate on enterprise software
-- 🤔 I’m looking for a help with Data annotation
-- 💬 Ask me about Product Design
-- 📫 How to reach me: shushukurov@gmail.com
-- ⚡ Fun fact: I am a powerlifting champion 🏋🏻🏆
--->
+
 # Table of contest
 ## 1. [ML portfolio](https://github.com/shushukurov/ML_Portfolio)
 List of My projects
