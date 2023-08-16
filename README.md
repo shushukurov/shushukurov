@@ -3,10 +3,9 @@
 - 🔭 I’m currently working @ LexisNexis risk as Data Scientist 
 - 🌱 I’m currently learning to play a Tennis
 - 👯 I’m looking to collaborate on enterprise software
-- 🤔 I’m looking for help with Data annotation
-- 💬 Ask me about Product Design
-- 📫 How to reach me: shushukurov@gmail.com
-- ⚡ Fun fact: I am a powerlifting champion 🏋🏻🏆
+- 💬 Talk to me about Product Design
+- 📫 How to reach me: contact@shakhzod.tech
+- ⚡ Fun fact: Before science and technology I was a competitive athlete, winning national competitions in powerlifting 🏋️‍♂️ 
 -->
 
 ### That's how it all started and keeps going 
