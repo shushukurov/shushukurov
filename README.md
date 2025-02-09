@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working @ LexisNexis risk as Data Scientist 
+- 🔭 I’m currently working @ Iman Invest as Chief Data (so working on corporate repo)
 - 🌱 I’m currently learning to play a Tennis
 - 👯 I’m looking to collaborate on enterprise software
-- 💬 Talk to me about Product Design
+- 💬 Talk to me about Design, Art
 - 📫 How to reach me: contact@shakhzod.tech
 - ⚡ Fun fact: Before science and technology I was a competitive athlete, winning national competitions in powerlifting 🏋️‍♂️ 
 -->
