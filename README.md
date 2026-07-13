@@ -1,47 +1,23 @@
+# Shakhzod
 
-### That's how it all started and keeps going 
+Fintech founder. I run my startup on AI agents — they write the code, run the research, maintain the knowledge base, and quiz me on the results. The useful parts get published here.
 
+## Agent artifacts
 
-# Table of contest
-## 1. [ML portfolio](https://github.com/shushukurov/ML_Portfolio)
-List of My projects
-Inspired by Andrej Karpathy, Justin Johnson, Cs231n, Elon Musk's tweet about PyTorch :)
-Most projects are implented on low level using Pytorch tensors only as a gpu accelerating data type, only few of them (most complicated ones) utilize some pytorch high level API functions 
+| Artifact | What it does |
+|---|---|
+| [quiz-me](https://github.com/shushukurov/quiz-me) | Your agent quizzes **you** on your repo's recent changes, honest grading. Because investors and incidents interview humans, not agents |
 
-#### Long-Short-Term-Memory
-Many people use a variant on the vanilla RNN called Long-Short Term Memory (LSTM) RNNs because Vanilla RNNs can be tough to train on long sequences due to vanishing and exploding gradients caused by repeated matrix multiplication. LSTMs solve this problem by replacing the simple update rule of the vanilla RNN with a gating mechanism as follows.
+One artifact per repo, each installable in one line. More coming.
 
-#### Attention
-Attention is the idea of freeing the encoder-decoder architecture from the fixed-length internal representation.
-This is achieved by keeping the intermediate outputs from the encoder LSTM from each step of the input sequence and training the model to learn to pay selective attention to these inputs and relate them to items in the output sequence.
+## Operating principles
 
-### [Neural Networks Visualization](https://github.com/shushukurov/ML_Portfolio/tree/main/NetworkVisualization)
+- **One writer per worktree.** Parallel agents get isolated checkouts, or they corrupt each other's work
+- **Review by a rival model.** A model can't catch its own blind spots; a different one has different ones
+- **Verify state, not words.** "Done" is a claim. A green build, a live build number, a passing quiz — that's evidence
 
-#### Saliency Maps
+## Background
 
-A saliency map tells the degree to which each pixel in the image affects the classification score for that image.
+Ex fraud & payments data scientist — decisioning used by tier-1 banks. Co-founder & Chief Risk and Data Officer at [IMAN](https://imanum.app/en). Now building fintech #2 with the fleet.
 
-#### Adversarial Attacks
-
-Use of image gradients to generate "adversarial attacks". Given an image and a target class, It is possible to perform gradient ascent over the image to maximize the target class, stopping when the network classifies the image as the target class.
-
-#### Class visualization
-
-By starting with a random noise image and performing gradient ascent on a target class, It is possible to generate an image that the network will recognize as the target class.
-
-
-
-<!--
-**shushukurov/shushukurov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Face mask detection APP
-- 🌱 I’m currently learning Docker, Kubernetes
-- 👯 I’m looking to collaborate on MedTech software
-- 🤔 I’m looking for help with Data annotation
-- 💬 Ask me about Everything
-- 📫 How to reach me: shushukurov@gmail.com
-- 😄 Pronouns: Shakhzod 3 times :)
-- ⚡ Fun fact: I am a powerlifting champion 🏋🏻🏆
--->
+**X: [@runsagents](https://x.com/runsagents)** — the operating log.
